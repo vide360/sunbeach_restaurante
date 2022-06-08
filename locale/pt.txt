@@ -3,15 +3,14 @@
 ## Action
 
 ### URL
-LinkBehaviour_2870A2E5_3AC9_5423_41C1_FB350961099B.source = https://api.whatsapp.com/send?phone=5583999123518&text=Desejo+pedir+uma+Pizza!&utm_source=WhatsApp+Pizzaria
+LinkBehaviour_57EB85A5_40AE_B522_4165_FECB2ADE6A65.source = https://api.whatsapp.com/send?phone=5583999123518&text=Desejo+pedir+uma+Pizza!&utm_source=WhatsApp+Pizzaria
 LinkBehaviour_50A55EE5_4079_5722_41C4_3303B64A12EC.source = https://api.whatsapp.com/send?phone=5583999123518&text=Desejo+pedir+uma+Pizza!&utm_source=WhatsApp+Pizzaria
 LinkBehaviour_4F9FC365_4079_ED22_41C8_34917E6A5F48.source = https://instagram.com/restaurantesunbeach_?igshid=YmMyMTA2M2Y=
+LinkBehaviour_57EBC5A4_40AE_B522_41C8_CF66033DBEE3.source = https://instagram.com/restaurantesunbeach_?igshid=YmMyMTA2M2Y=
+LinkBehaviour_57EB75A3_40AE_B526_41CE_8343CFCD98D6.source = https://www.facebook.com/Restaurantesun
 LinkBehaviour_4FF512E6_407F_6F2E_41CB_51AEE4FB34CE.source = https://www.facebook.com/Restaurantesun
-LinkBehaviour_2872E2E3_3AC9_5427_41C6_1031AE26E80B.source = https://www.facebook.com/sunbeachrestaurante
-LinkBehaviour_287342E2_3AC9_5421_418E_6252BE405CBC.source = https://www.google.com/maps/place/Sun+Beach+Restaurante/@-7.0652465,-34.8424832,17z/data=!3m1!4b1!4m5!3m4!1s0x7ace9e4b65b9321:0x29399bcc91153036!8m2!3d-7.0652518!4d-34.8402945
-LinkBehaviour_287202E7_3AC9_542F_41C8_E56AA3C7BC55.source = https://www.google.com/maps/place/Sun+Beach+Restaurante/@-7.0652465,-34.8424832,17z/data=!3m1!4b1!4m5!3m4!1s0x7ace9e4b65b9321:0x29399bcc91153036!8m2!3d-7.0652518!4d-34.8402945
+LinkBehaviour_57E8F5A7_40AE_B52E_41B1_777590A8E34F.source = https://www.google.com/maps/place/Sun+Beach+Restaurante/@-7.0652465,-34.8424832,17z/data=!3m1!4b1!4m5!3m4!1s0x7ace9e4b65b9321:0x29399bcc91153036!8m2!3d-7.0652518!4d-34.8402945
 LinkBehaviour_5172DEF3_406A_F726_419F_39390E6D9268.source = https://www.google.com/maps/place/Sun+Beach+Restaurante/@-7.0652465,-34.8424832,17z/data=!3m1!4b1!4m5!3m4!1s0x7ace9e4b65b9321:0x29399bcc91153036!8m2!3d-7.0652518!4d-34.8402945
-LinkBehaviour_287272E4_3AC9_5421_41C2_F63C2F0980DE.source = https://www.instagram.com/pizzariasunbeach/
 
 ## Media
 
@@ -36,16 +35,16 @@ panorama_FD5495CB_F707_ACBB_41ED_71F83370550A.label = salao_esquerda05
 video_391419E1_261A_3386_41B7_49A8D84D4084.label = vídeo
 
 ### Video
-videolevel_53438025_4069_AB23_41C9_D6DE84BE7A9C.posterURL = media/video_391419E1_261A_3386_41B7_49A8D84D4084_poster_pt.jpg
-videolevel_53439025_4069_AB23_41A5_9C29BCAE5EB5.posterURL = media/video_391419E1_261A_3386_41B7_49A8D84D4084_poster_pt.jpg
-videolevel_53439025_4069_AB23_41A5_9C29BCAE5EB5.url = media/video_391419E1_261A_3386_41B7_49A8D84D4084_pt.m3u8
-videolevel_53438025_4069_AB23_41C9_D6DE84BE7A9C.url = media/video_391419E1_261A_3386_41B7_49A8D84D4084_pt.mp4
-videolevel_5347A07E_4069_AB1E_41B3_AA12788182DC.posterURL = media/video_39EB2555_26F6_108E_41B1_2F3ECAA3C1FA_poster_pt.jpg
-videolevel_5347A07E_4069_AB1E_41B3_AA12788182DC.url = media/video_39EB2555_26F6_108E_41B1_2F3ECAA3C1FA_pt.mp4
-videolevel_535E3FEB_4069_B527_41CD_E811C187FEB9.posterURL = media/video_EDE0F358_F718_A5A5_41D8_51C294500517_poster_pt.jpg
-videolevel_535E3FEB_4069_B527_41CD_E811C187FEB9.url = media/video_EDE0F358_F718_A5A5_41D8_51C294500517_pt.mp4
-videolevel_535EAFA5_4069_B522_41C3_7568BA206A4E.posterURL = media/video_EE0EBD3E_F708_7DDC_41C2_F2F6AC432CCD_poster_pt.jpg
-videolevel_535EAFA5_4069_B522_41C3_7568BA206A4E.url = media/video_EE0EBD3E_F708_7DDC_41C2_F2F6AC432CCD_pt.mp4
+videolevel_5ADBC039_40AB_AB22_41A9_2F18D43A0637.posterURL = media/video_391419E1_261A_3386_41B7_49A8D84D4084_poster_pt.jpg
+videolevel_5ADBB039_40AB_AB22_41CD_22EBB1C22A79.posterURL = media/video_391419E1_261A_3386_41B7_49A8D84D4084_poster_pt.jpg
+videolevel_5ADBB039_40AB_AB22_41CD_22EBB1C22A79.url = media/video_391419E1_261A_3386_41B7_49A8D84D4084_pt.m3u8
+videolevel_5ADBC039_40AB_AB22_41A9_2F18D43A0637.url = media/video_391419E1_261A_3386_41B7_49A8D84D4084_pt.mp4
+videolevel_5AE4A0A6_40AB_AB2E_41BE_A2B4D5A3B073.posterURL = media/video_39EB2555_26F6_108E_41B1_2F3ECAA3C1FA_poster_pt.jpg
+videolevel_5AE4A0A6_40AB_AB2E_41BE_A2B4D5A3B073.url = media/video_39EB2555_26F6_108E_41B1_2F3ECAA3C1FA_pt.mp4
+videolevel_5ADC5FFA_40AB_5526_41CF_0407A3087561.posterURL = media/video_EDE0F358_F718_A5A5_41D8_51C294500517_poster_pt.jpg
+videolevel_5ADC5FFA_40AB_5526_41CF_0407A3087561.url = media/video_EDE0F358_F718_A5A5_41D8_51C294500517_pt.mp4
+videolevel_5ADE4F9C_40AB_55E2_419E_A3DE72DA4DFF.posterURL = media/video_EE0EBD3E_F708_7DDC_41C2_F2F6AC432CCD_poster_pt.jpg
+videolevel_5ADE4F9C_40AB_55E2_419E_A3DE72DA4DFF.url = media/video_EE0EBD3E_F708_7DDC_41C2_F2F6AC432CCD_pt.mp4
 
 ## Skin
 
